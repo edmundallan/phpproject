@@ -1,0 +1,58 @@
+body{
+    background-color:;
+    }
+    h1 {
+    background-color:;
+    font-size:50px;
+    color:black;
+    text-align:left;
+    }
+     div.box{
+    
+    height:140px;
+    padding:10px;
+    background-color:;
+     font-family: "stonehenge";
+    }
+    
+    div.ppt{
+    background-color:;
+    height:50px;
+    }
+
+    div.lst{
+    background-color:red;
+    height:80px;
+    text-align: center;
+    }
+    div.fil{
+    background-color:#D1D0CE;
+    }
+    .main{
+        background-color:white;
+        display : flex;
+        justify-content: space-between;
+        position: sticky;
+        top:0.0rem;
+        
+   }
+   .fo{
+    font-family:Stonehenge;
+    padding-right: 300px;
+   
+ }
+ 
+ .im{
+    width: 100px;
+    height: 100px;
+    padding-left: 30px;
+ }
+.ppt{
+    color: red;
+    text-align: center;
+}
+
+.md{
+    text-align: center;
+    padding-left: 400px;
+}

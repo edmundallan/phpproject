@@ -1,0 +1,91 @@
+body{
+    background-color:white;
+    }
+    h1 {
+    background-color:;
+    font-size:50px;
+    color:black;
+    text-align:left;
+    }
+     div.box{
+    height:140px;
+    padding:10px;
+    background-color:;
+     font-family: "stonehenge";
+    }
+    div.mak{
+      background-color:red;
+      font-size:10px;
+      padding: 0px;
+      color: white;
+      
+      }
+    div.ppt{
+    background-color:yellow;
+    }
+    div.per{
+    background-color:red;
+    height:40px;
+    }
+    div.ffs{
+    background-color:#D1D0CE;
+    }
+    div.lst{
+    background-color:red;
+    height:80px
+    }
+    .main{
+        background-color:white;
+        display : flex;
+        justify-content: space-between;
+        position: sticky;
+        top:0.0rem;
+        
+   }
+
+.fo{
+   font-family:Stonehenge;
+  
+}
+
+.im{
+   width: 100px;
+   height: 100px;
+   padding-left: 30px;
+}
+.rightdiv{
+    color: rgb(97, 26, 26);
+}
+
+  
+   ol{ 
+   display: flex;
+   list-style-type: none;
+  
+  }
+
+  li{
+    padding-right: 40px;
+   }
+   .none{
+    text-decoration: none;
+    color: rgb(97, 26, 26);
+}
+
+.none1{
+   text-decoration: none;
+   color: rgb(19, 8, 133);
+}
+.table{
+   border-style: groove;
+   }
+   .center{
+      justify-content: center;
+      padding-left: 450px;
+   }
+   .center1{
+      padding-left: 350px;
+   }
+   .blue{
+      color: blue;
+   }
